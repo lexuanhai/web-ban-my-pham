@@ -1,0 +1,34 @@
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\bin\Debug\net6.0\Domain.dll
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\bin\Debug\net6.0\Common.dll
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\bin\Debug\net6.0\Common.pdb
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.dll
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\hoc tap\Cosmetics Store\TECH\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\hoc tap\Cosmetics Store\TECH\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\hoc tap\Cosmetics Store\TECH\Domain\bin\Debug\net6.0\Domain.dll
+C:\hoc tap\Cosmetics Store\TECH\Domain\bin\Debug\net6.0\Domain.pdb
+C:\hoc tap\Cosmetics Store\TECH\Domain\bin\Debug\net6.0\Common.dll
+C:\hoc tap\Cosmetics Store\TECH\Domain\bin\Debug\net6.0\Common.pdb
+C:\hoc tap\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\hoc tap\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\hoc tap\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\hoc tap\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\hoc tap\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\hoc tap\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\hoc tap\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.dll
+C:\hoc tap\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\hoc tap\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.pdb
+C:\hoc tap\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\hoc tap\Cosmetics Store\TECH\Domain\obj\Debug\net6.0\ref\Domain.dll

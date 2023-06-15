@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Domain">
+      <HintPath>..\Domain\bin\Debug\net6.0\Domain.dll</HintPath>
+    </Reference>
+    <Reference Include="Dto">
+      <HintPath>..\Reponsitory\bin\Debug\net6.0\Dto.dll</HintPath>
+    </Reference>
+    <Reference Include="Reponsitory">
+      <HintPath>..\Reponsitory\bin\Debug\net6.0\Reponsitory.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

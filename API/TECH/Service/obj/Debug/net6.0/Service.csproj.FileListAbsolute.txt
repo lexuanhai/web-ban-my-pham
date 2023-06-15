@@ -1,0 +1,42 @@
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Service.deps.json
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Service.dll
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Service.pdb
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Domain.dll
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Dto.dll
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Reponsitory.dll
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Common.dll
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Reponsitory.pdb
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Domain.pdb
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Dto.pdb
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Common.pdb
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.dll
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\obj\Debug\net6.0\refint\Service.dll
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.pdb
+E:\Hoc-Tap\Website\Cosmetics Store\TECH\Service\obj\Debug\net6.0\ref\Service.dll
+C:\hoc tap\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Service.deps.json
+C:\hoc tap\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Service.dll
+C:\hoc tap\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Service.pdb
+C:\hoc tap\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Domain.dll
+C:\hoc tap\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Dto.dll
+C:\hoc tap\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Reponsitory.dll
+C:\hoc tap\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Common.dll
+C:\hoc tap\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Domain.pdb
+C:\hoc tap\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Dto.pdb
+C:\hoc tap\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Reponsitory.pdb
+C:\hoc tap\Cosmetics Store\TECH\Service\bin\Debug\net6.0\Common.pdb
+C:\hoc tap\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\hoc tap\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\hoc tap\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\hoc tap\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\hoc tap\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\hoc tap\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\hoc tap\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.dll
+C:\hoc tap\Cosmetics Store\TECH\Service\obj\Debug\net6.0\refint\Service.dll
+C:\hoc tap\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.pdb
+C:\hoc tap\Cosmetics Store\TECH\Service\obj\Debug\net6.0\ref\Service.dll
