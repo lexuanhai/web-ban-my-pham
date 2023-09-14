@@ -24,7 +24,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<DatabaseContext>(options =>
+builder.Services.AddDbContext<DatabaseEntityContext>(options =>
 {
     // Đọc chuỗi kết nối
     string connectstring = builder.Configuration.GetConnectionString("AppDbContext");

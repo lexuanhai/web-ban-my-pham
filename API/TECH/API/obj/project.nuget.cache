@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7lujxia+44BNF/QmiwbSw9VxBesbN1irJ0pgt/VSqAVCOeWXdA7zwuuXoOsNHZeeT6ue41WftoH7klGN8qHYwQ==",
+  "dgSpecHash": "Anyfn/pg6Kw8dktgcqSQZpM+7dN224M/JFaFs7tkWZgLpJc5+ZtiedBNb2YwOl47HL6GjP32nG+iLKHv/NGNDw==",
   "success": true,
-  "projectFilePath": "F:\\Hoc Tap\\Website\\ban-my-pham\\API\\TECH\\API\\API.csproj",
+  "projectFilePath": "F:\\Công việc hằng ngày\\Bán hàng online\\ban-my-pham\\API\\TECH\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emcua\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\emcua\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

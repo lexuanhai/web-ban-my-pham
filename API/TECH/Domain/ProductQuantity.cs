@@ -9,17 +9,19 @@ using System.Threading.Tasks;
 namespace Domain
 {
     [Table("ProductQuantity")]
-    public class ProductQuantity
-    {
-        [Key]
-        public int Id { get; set; }                       
+    public class ProductQuantity: BaseEntity<int>
+    {               
         public int? TotalImported { get; set; }
         public int? TotalSold { get; set; }
         public int? TotalStock { get; set; }
         public int? TotalExpired { get; set; } // Tổng sản phẩm hết hạn
 
         // các trường khóa ngoại
+        [ForeignKey("ColorId")]
         public int? ColorId { get; set; }
+        public AppColor? AppColor { get; set; }
+        [ForeignKey("ProductId")]
         public int? ProductId { get; set; }
+        public Products? Products { get; set; }
     }
 }

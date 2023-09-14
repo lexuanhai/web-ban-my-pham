@@ -32,3 +32,37 @@ C:\hoc tap\Cosmetics Store\TECH\Dto\obj\Debug\net6.0\refint\Dto.dll
 C:\hoc tap\Cosmetics Store\TECH\Dto\obj\Debug\net6.0\Dto.pdb
 C:\hoc tap\Cosmetics Store\TECH\Dto\obj\Debug\net6.0\Dto.genruntimeconfig.cache
 C:\hoc tap\Cosmetics Store\TECH\Dto\obj\Debug\net6.0\ref\Dto.dll
+C:\hoc-tap\website\API\TECH\Dto\bin\Debug\net6.0\Dto.deps.json
+C:\hoc-tap\website\API\TECH\Dto\bin\Debug\net6.0\Dto.runtimeconfig.json
+C:\hoc-tap\website\API\TECH\Dto\bin\Debug\net6.0\Dto.dll
+C:\hoc-tap\website\API\TECH\Dto\bin\Debug\net6.0\Dto.pdb
+C:\hoc-tap\website\API\TECH\Dto\bin\Debug\net6.0\Common.dll
+C:\hoc-tap\website\API\TECH\Dto\bin\Debug\net6.0\Common.pdb
+C:\hoc-tap\website\API\TECH\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+C:\hoc-tap\website\API\TECH\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\hoc-tap\website\API\TECH\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+C:\hoc-tap\website\API\TECH\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+C:\hoc-tap\website\API\TECH\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+C:\hoc-tap\website\API\TECH\Dto\obj\Debug\net6.0\Dto.csproj.CopyComplete
+C:\hoc-tap\website\API\TECH\Dto\obj\Debug\net6.0\Dto.dll
+C:\hoc-tap\website\API\TECH\Dto\obj\Debug\net6.0\refint\Dto.dll
+C:\hoc-tap\website\API\TECH\Dto\obj\Debug\net6.0\Dto.pdb
+C:\hoc-tap\website\API\TECH\Dto\obj\Debug\net6.0\Dto.genruntimeconfig.cache
+C:\hoc-tap\website\API\TECH\Dto\obj\Debug\net6.0\ref\Dto.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\bin\Debug\net6.0\Dto.deps.json
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\bin\Debug\net6.0\Dto.runtimeconfig.json
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\bin\Debug\net6.0\Dto.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\bin\Debug\net6.0\Dto.pdb
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\bin\Debug\net6.0\Common.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\bin\Debug\net6.0\Common.pdb
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\obj\Debug\net6.0\Dto.csproj.CopyComplete
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\obj\Debug\net6.0\Dto.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\obj\Debug\net6.0\refint\Dto.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\obj\Debug\net6.0\Dto.pdb
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\obj\Debug\net6.0\Dto.genruntimeconfig.cache
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Dto\obj\Debug\net6.0\ref\Dto.dll

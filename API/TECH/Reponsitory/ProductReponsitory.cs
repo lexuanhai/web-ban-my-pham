@@ -1,6 +1,6 @@
 ﻿using Dapper;
 using Domain;
-using Dto;
+using Dto.Models;
 using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 using System;

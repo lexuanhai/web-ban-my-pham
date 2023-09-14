@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YFfmtZ3i8KvYe+dW5LtSYeLvnLH16mZgPXCjtmCr6KKfYrmanZ5P83hqU5JOZtHpxEY98yxnjqcjtJyev0L4vQ==",
+  "dgSpecHash": "1U8IVghw8TOpOErar3pCaMgw2yVld/fg1Tt2lPtQENl6znEzmLa4j5T6SsOP7728edIr4qg1H5VRzMHF1yMO/A==",
   "success": true,
-  "projectFilePath": "F:\\Hoc Tap\\Website\\ban-my-pham\\API\\TECH\\Domain\\Domain.csproj",
+  "projectFilePath": "F:\\Công việc hằng ngày\\Bán hàng online\\ban-my-pham\\API\\TECH\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emcua\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\emcua\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

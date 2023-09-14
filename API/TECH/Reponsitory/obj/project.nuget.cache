@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "chY0tUfq97AfxSvvkBbBtQfc4J0I9R7kqCLz67uPOizif9QybAivPHMKqEgrNn+9Da1f/y+/RmLTtBdEe2pJiQ==",
+  "dgSpecHash": "js+rfwEqkwsYfWkuRSAw9Cw0NDaecQZv2MVvQVI6bLY6P6ADu1S4Xm4/oaVHuvU5FUwWtGgQlhyjvG5xNa327g==",
   "success": true,
-  "projectFilePath": "F:\\Hoc Tap\\Website\\ban-my-pham\\API\\TECH\\Reponsitory\\Reponsitory.csproj",
+  "projectFilePath": "F:\\Công việc hằng ngày\\Bán hàng online\\ban-my-pham\\API\\TECH\\Reponsitory\\Reponsitory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emcua\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\emcua\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

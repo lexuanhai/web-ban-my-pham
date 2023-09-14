@@ -225,3 +225,155 @@ F:\Hoc Tap\Website\ban-my-pham\API\TECH\API\obj\Debug\net6.0\refint\API.dll
 F:\Hoc Tap\Website\ban-my-pham\API\TECH\API\obj\Debug\net6.0\API.pdb
 F:\Hoc Tap\Website\ban-my-pham\API\TECH\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 F:\Hoc Tap\Website\ban-my-pham\API\TECH\API\obj\Debug\net6.0\ref\API.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\appsettings.Development.json
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\appsettings.json
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\API.exe
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\API.deps.json
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\API.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\API.pdb
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Dapper.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Humanizer.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Common.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Domain.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Dto.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Reponsitory.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Service.dll
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Common.pdb
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Domain.pdb
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Dto.pdb
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Reponsitory.pdb
+C:\hoc-tap\website\API\TECH\API\bin\Debug\net6.0\Service.pdb
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\API.dll
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\refint\API.dll
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\API.pdb
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\hoc-tap\website\API\TECH\API\obj\Debug\net6.0\ref\API.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\appsettings.Development.json
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\appsettings.json
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\API.exe
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\API.deps.json
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\API.runtimeconfig.json
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\API.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\API.pdb
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Dapper.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Humanizer.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Common.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Domain.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Dto.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Reponsitory.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Service.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Common.pdb
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Domain.pdb
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Dto.pdb
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Reponsitory.pdb
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\bin\Debug\net6.0\Service.pdb
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\staticwebassets.build.json
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\staticwebassets.development.json
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\API.csproj.CopyComplete
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\API.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\refint\API.dll
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\API.pdb
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+F:\Công việc hằng ngày\Bán hàng online\ban-my-pham\API\TECH\API\obj\Debug\net6.0\ref\API.dll

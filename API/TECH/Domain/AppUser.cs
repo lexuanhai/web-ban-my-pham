@@ -9,15 +9,19 @@ using System.Threading.Tasks;
 namespace Domain
 {
     [Table("AppUser")]
-    public class AppUser
+    public class AppUser : BaseEntity<int>
     {
-        [Key]
-        public int Id { get; set; }
+        [Column(TypeName = "nvarchar(500)")]
         public string? FullName { get; set; }
+        [Column(TypeName = "varchar(500)")]
         public string? UserName { get; set; }
+        [Column(TypeName = "varchar(500)")]
         public string? Password { get; set; }
+        [Column(TypeName = "varchar(11)")]
         public string? Phone { get; set; }
+        [Column(TypeName = "nvarchar(500)")]
         public string? Address { get; set; }
+        [Column(TypeName = "varchar(500)")]
         public string? Email { get; set; }
 
     }

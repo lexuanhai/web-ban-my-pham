@@ -1,5 +1,7 @@
 ﻿using API.Models;
 using Dto;
+using Dto.Models;
+using Dto.Search;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using Service;
@@ -16,18 +18,38 @@ namespace API.Controllers
             _categoryService = categoryService;
         }
 
-        //[HttpGet]
         [HttpGet("GetAll")]
-        //[Route("/GetAll")]
         public IActionResult GetAll()
         {
             var data = _categoryService.GetAll();
             return Ok(new ApiResponse
             {
                 Success = true,
-                Data = JsonConvert.SerializeObject(data)
+                Data = data
             });
         }
+        [HttpGet("GetDataPaging1")]
+        public IActionResult GetDataPaging1(int PageIndex, int PageSize)
+        {
+          //  var data = _categoryService.GetPaging(search);
+            return Ok(new ApiResponse
+            {
+                Success = true,
+               // Data = data
+            });
+        }
+
+        [HttpGet("GetDataPaging")]
+        public IActionResult GetDataPaging([FromHeader]CategoryModelSearch search)
+        {
+            var data = _categoryService.GetPaging(search);            
+            return Ok(new ApiResponse
+            {
+                Success = true,
+                Data = data
+            });
+        }
+
         [HttpPost]
         [Route("/Add")]
         public IActionResult Add(CategoryModel model)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Hoc Tap\\Website\\ban-my-pham\\API\\TECH\\API\\API.csproj": {}
+    "F:\\Công việc hằng ngày\\Bán hàng online\\ban-my-pham\\API\\TECH\\API\\API.csproj": {}
   },
   "projects": {
-    "F:\\Hoc Tap\\Website\\ban-my-pham\\API\\TECH\\API\\API.csproj": {
+    "F:\\Công việc hằng ngày\\Bán hàng online\\ban-my-pham\\API\\TECH\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Hoc Tap\\Website\\ban-my-pham\\API\\TECH\\API\\API.csproj",
+        "projectUniqueName": "F:\\Công việc hằng ngày\\Bán hàng online\\ban-my-pham\\API\\TECH\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "F:\\Hoc Tap\\Website\\ban-my-pham\\API\\TECH\\API\\API.csproj",
+        "projectPath": "F:\\Công việc hằng ngày\\Bán hàng online\\ban-my-pham\\API\\TECH\\API\\API.csproj",
         "packagesPath": "C:\\Users\\emcua\\.nuget\\packages\\",
-        "outputPath": "F:\\Hoc Tap\\Website\\ban-my-pham\\API\\TECH\\API\\obj\\",
+        "outputPath": "F:\\Công việc hằng ngày\\Bán hàng online\\ban-my-pham\\API\\TECH\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

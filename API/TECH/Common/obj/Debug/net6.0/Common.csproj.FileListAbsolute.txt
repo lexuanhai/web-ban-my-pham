@@ -22,3 +22,27 @@ C:\hoc tap\Cosmetics Store\TECH\Common\obj\Debug\net6.0\Common.dll
 C:\hoc tap\Cosmetics Store\TECH\Common\obj\Debug\net6.0\refint\Common.dll
 C:\hoc tap\Cosmetics Store\TECH\Common\obj\Debug\net6.0\Common.pdb
 C:\hoc tap\Cosmetics Store\TECH\Common\obj\Debug\net6.0\ref\Common.dll
+C:\hoc-tap\website\API\TECH\Common\bin\Debug\net6.0\Common.deps.json
+C:\hoc-tap\website\API\TECH\Common\bin\Debug\net6.0\Common.dll
+C:\hoc-tap\website\API\TECH\Common\bin\Debug\net6.0\Common.pdb
+C:\hoc-tap\website\API\TECH\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\hoc-tap\website\API\TECH\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\hoc-tap\website\API\TECH\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\hoc-tap\website\API\TECH\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\hoc-tap\website\API\TECH\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\hoc-tap\website\API\TECH\Common\obj\Debug\net6.0\Common.dll
+C:\hoc-tap\website\API\TECH\Common\obj\Debug\net6.0\refint\Common.dll
+C:\hoc-tap\website\API\TECH\Common\obj\Debug\net6.0\Common.pdb
+C:\hoc-tap\website\API\TECH\Common\obj\Debug\net6.0\ref\Common.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Common\bin\Debug\net6.0\Common.deps.json
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Common\bin\Debug\net6.0\Common.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Common\bin\Debug\net6.0\Common.pdb
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Common\obj\Debug\net6.0\Common.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Common\obj\Debug\net6.0\refint\Common.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Common\obj\Debug\net6.0\Common.pdb
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Common\obj\Debug\net6.0\ref\Common.dll

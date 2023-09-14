@@ -15,13 +15,24 @@ namespace Domain
         public string? Name { get; set; }
         public string? ShortDescription { get; set; }
         public string? Description { get; set; }
+
+        [Column(TypeName = "decimal(18, 0)")]
         public decimal? Price { get; set; }
+
+        [Column(TypeName = "decimal(18, 0)")]
         public decimal? MarketPrice { get; set; }
+
+        [Column(TypeName = "decimal(18, 0)")]
         public decimal? ImportPrice { get; set; }
         public DateTime? DateOfManufacture { get; set; }
 
         // các trường khóa ngoại
+        [ForeignKey("CategoryId")]
         public int? CategoryId { get; set; }
-        public int? BandsId { get; set; }        
+        public Category? Category { get; set; }
+
+        [ForeignKey("BandsId")]
+        public int? BandsId { get; set; }
+        public Brand? Brand { get; set; }
     }
 }

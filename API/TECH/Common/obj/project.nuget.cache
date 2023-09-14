@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MA4L7dybJFP0WzgR6cWXSr+/LYWhdp/luxEIbUSqLFSWHO4QmIkyBNBoYruikoEmXGnn6oSPhlH+YvmkJhnkCg==",
+  "dgSpecHash": "FF/zAbZ/QUlTfSkHszCZpENrCsoVSr2c38H2suizimv7C3ElHpYl8TUQWmhJVFgzFe5VwBS8BF9ikD31SE+Ohg==",
   "success": true,
-  "projectFilePath": "F:\\Hoc Tap\\Website\\ban-my-pham\\API\\TECH\\Common\\Common.csproj",
+  "projectFilePath": "F:\\Công việc hằng ngày\\Bán hàng online\\ban-my-pham\\API\\TECH\\Common\\Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emcua\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.6\\microsoft.entityframeworkcore.6.0.6.nupkg.sha512",
     "C:\\Users\\emcua\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.6\\microsoft.entityframeworkcore.abstractions.6.0.6.nupkg.sha512",

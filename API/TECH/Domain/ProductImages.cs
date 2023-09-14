@@ -9,11 +9,15 @@ using System.Threading.Tasks;
 namespace Domain
 {
     [Table("ProductImages")]
-    public class ProductImages
+    public class ProductImages : BaseEntity<int>
     {
-        [Key]
-        public int Id { get; set; }               
+
+        [ForeignKey("ProductId")]
         public int? ProductId { get; set; }
+        public Products? Products { get; set; }
+
+        [ForeignKey("AppImageId")]
         public int? AppImageId { get; set; }
+        public AppImages? AppImages { get; set; }
     }
 }

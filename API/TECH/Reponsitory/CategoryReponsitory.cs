@@ -1,7 +1,10 @@
 ﻿using Dapper;
 using Domain;
 using Dto;
+using Dto.Models;
+using Dto.Search;
 using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
@@ -15,8 +18,10 @@ namespace Reponsitory
     public interface ICategoryReponsitory
     {
         List<Category> GetAll();
+        Category GetById(int id);
         void Add(CategoryModel model);
         bool Update(CategoryModel model);
+        List<Category> GetDataPaging(CategoryModelSearch search);
         bool Delete(int id);
     }
     public class CategoryReponsitory: ICategoryReponsitory
@@ -40,9 +45,65 @@ namespace Reponsitory
                 try
                 {
                     con.Open();
-                    var query = @"SELECT * FROM Category WHERE IsDeleted = 0";
-                    var categories = con.Query<Category>(query).ToList();                                
-                    return categories;
+                    using (var command = new SqlCommand())
+                    {
+                        command.Connection = con;
+                        command.CommandType = CommandType.StoredProcedure;
+                        command.CommandText = "GetAll";
+                        var data = command.ExecuteReader(); // trả về nhiều list data
+                        if (data != null && data.HasRows)
+                        {
+                            var lstData = new List<Category>();
+                            var itemParser = data.GetRowParser<Category>(typeof(Category));
+                            while (data.Read())
+                            {
+                                var item = itemParser(data);
+                                if (item!= null)
+                                    lstData.Add(item);
+                            }
+                            return lstData;
+                        }
+                    }
+                    return null;
+                }
+                catch
+                {
+                    return null;
+                }
+                finally
+                {
+                    con.Close();
+                }
+            }
+        }
+        public Category GetById(int id)
+        {
+            var connectionString = this.GetConnection();
+            using (var con = new SqlConnection(connectionString))
+            {
+                try
+                {
+                    con.Open();
+                    using (var command = new SqlCommand())
+                    {
+                        command.Connection = con;
+                        command.CommandType = CommandType.StoredProcedure;
+                        command.CommandText = "GetById";
+                        var data = command.ExecuteReader(); // trả về nhiều list data
+                        if (data != null && data.HasRows)
+                        {
+                            var lstData = new Category();
+                            var itemParser = data.GetRowParser<Category>(typeof(Category));
+                            while (data.Read())
+                            {
+                                var item = itemParser(data);
+                                if (item != null)
+                                    lstData = item;
+                            }
+                            return lstData;
+                        }
+                    }
+                    return null;
                 }
                 catch
                 {
@@ -156,6 +217,50 @@ namespace Reponsitory
                 }
             }
             return false;
+        }
+
+        public List<Category> GetDataPaging(CategoryModelSearch search)
+        {
+            var connectionString = this.GetConnection();
+            using (var con = new SqlConnection(connectionString))
+            {
+                try
+                {
+                    con.Open();
+                    using (var command = new SqlCommand())
+                    {
+                        command.Connection = con;
+                        command.CommandType = CommandType.StoredProcedure;
+                        command.CommandText = "GetDataPaging_Category";
+                        command.Parameters.AddWithValue("@PageIndex", search.PageIndex);
+                        command.Parameters.AddWithValue("@PageSize", search.PageSize);
+                        command.Parameters.AddWithValue("@TotalRow", 0).Direction = ParameterDirection.Output;
+                       var data = command.ExecuteReader(); // trả về nhiều list data
+                        int contractID = Convert.ToInt32(command.Parameters["@TotalRow"].Value);
+                        if (data != null)
+                        {
+                            var lstData = new List<Category>();
+                            var itemParser = data.GetRowParser<Category>(typeof(Category));                           
+                            while (data.Read())
+                            {
+                                var item = itemParser(data);
+                                if (item != null)
+                                    lstData.Add(item);
+                            }
+                            return lstData;
+                        }
+                    }
+                    return null;
+                }
+                catch (Exception ex)
+                {
+                    return null;
+                }
+                finally
+                {
+                    con.Close();
+                }
+            }
         }
 
         public string GetConnection()

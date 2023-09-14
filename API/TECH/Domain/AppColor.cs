@@ -10,8 +10,10 @@ namespace Domain
 {
     [Table("AppColor")]
     public class AppColor : BaseEntity<int>
-    {       
-        public string? Code { get; set; } 
+    {
+        [Column(TypeName = "varchar(50)")]
+        public string? Code { get; set; }
+        [Column(TypeName = "nvarchar(50)")]
         public string? Name { get; set; }
       
     }

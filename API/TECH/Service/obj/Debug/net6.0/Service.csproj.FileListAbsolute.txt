@@ -40,3 +40,45 @@ C:\hoc tap\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.dll
 C:\hoc tap\Cosmetics Store\TECH\Service\obj\Debug\net6.0\refint\Service.dll
 C:\hoc tap\Cosmetics Store\TECH\Service\obj\Debug\net6.0\Service.pdb
 C:\hoc tap\Cosmetics Store\TECH\Service\obj\Debug\net6.0\ref\Service.dll
+C:\hoc-tap\website\API\TECH\Service\bin\Debug\net6.0\Service.deps.json
+C:\hoc-tap\website\API\TECH\Service\bin\Debug\net6.0\Service.dll
+C:\hoc-tap\website\API\TECH\Service\bin\Debug\net6.0\Service.pdb
+C:\hoc-tap\website\API\TECH\Service\bin\Debug\net6.0\Domain.dll
+C:\hoc-tap\website\API\TECH\Service\bin\Debug\net6.0\Dto.dll
+C:\hoc-tap\website\API\TECH\Service\bin\Debug\net6.0\Reponsitory.dll
+C:\hoc-tap\website\API\TECH\Service\bin\Debug\net6.0\Common.dll
+C:\hoc-tap\website\API\TECH\Service\bin\Debug\net6.0\Domain.pdb
+C:\hoc-tap\website\API\TECH\Service\bin\Debug\net6.0\Dto.pdb
+C:\hoc-tap\website\API\TECH\Service\bin\Debug\net6.0\Reponsitory.pdb
+C:\hoc-tap\website\API\TECH\Service\bin\Debug\net6.0\Common.pdb
+C:\hoc-tap\website\API\TECH\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\hoc-tap\website\API\TECH\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\hoc-tap\website\API\TECH\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\hoc-tap\website\API\TECH\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\hoc-tap\website\API\TECH\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\hoc-tap\website\API\TECH\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\hoc-tap\website\API\TECH\Service\obj\Debug\net6.0\Service.dll
+C:\hoc-tap\website\API\TECH\Service\obj\Debug\net6.0\refint\Service.dll
+C:\hoc-tap\website\API\TECH\Service\obj\Debug\net6.0\Service.pdb
+C:\hoc-tap\website\API\TECH\Service\obj\Debug\net6.0\ref\Service.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\bin\Debug\net6.0\Service.deps.json
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\bin\Debug\net6.0\Service.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\bin\Debug\net6.0\Service.pdb
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\bin\Debug\net6.0\Domain.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\bin\Debug\net6.0\Dto.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\bin\Debug\net6.0\Reponsitory.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\bin\Debug\net6.0\Common.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\bin\Debug\net6.0\Domain.pdb
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\bin\Debug\net6.0\Dto.pdb
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\bin\Debug\net6.0\Reponsitory.pdb
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\bin\Debug\net6.0\Common.pdb
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\obj\Debug\net6.0\Service.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\obj\Debug\net6.0\refint\Service.dll
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\obj\Debug\net6.0\Service.pdb
+F:\Hoc Tap\Website\ban-my-pham\API\TECH\Service\obj\Debug\net6.0\ref\Service.dll
